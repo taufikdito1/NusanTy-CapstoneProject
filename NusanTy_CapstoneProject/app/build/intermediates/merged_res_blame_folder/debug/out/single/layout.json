@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splash_screen.xml",
+        "source": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "H:\\Capstone_Project\\NusanTy-CapstoneProject\\NusanTy_CapstoneProject\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
